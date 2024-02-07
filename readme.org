@@ -11,6 +11,12 @@ provided without warranty or guarantee of any kind. I used them
 successfully to build a couple Fuzzyglumps but if something goes
 wrong with your build I accept no responsibility.
 
+my contributions:
+- gerber files to be sent directly to PCB manufacturer of your choice
+- gerber files for panel; the original repo only had PDF graphics),
+  these gerbers can be sent directly to PCB fab as well
+- BOM and pos files for ordering using JLC's SMT assembly service
+
 good luck with your builds, let me see if you complete one!
 
 (The rest of this readme is as-written by ALM Busy Circuits.)

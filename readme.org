@@ -1,10 +1,23 @@
-* ALM014 FIZZLE GUTS
+* Fuzzyglump
 
-[[alm014.png]]
+[[Fuzzyglump.jpeg]]
 
 ** Introduction
 
-The ALM Busy Circuits 'Fizzle guts' is a Eurorack dual low pass filter
+The Secret Club Fuzzyglump is a clone of the ALM Busy Circuits
+"Fizzle Guts" module. I have added some convenience files to
+make the manufacture of boards a little simpler. These files are
+provided without warranty or guarantee of any kind. I used them 
+successfully to build a couple Fuzzyglumps but if something goes
+wrong with your build I accept no responsibility.
+
+good luck with your builds, let me see if you complete one!
+
+(The rest of this readme is as-written by ALM Busy Circuits.)
+
+** Fizzle Guts
+
+ALM Busy Circuits 'Fizzle guts' is a Eurorack dual low pass filter
 and VCA that uses a 'donor' filter MB87186 chip from a Casio FZ1
 sampler. It was originally designed in 2014 as a fun side project and
 only approx 30 of the original units were made. With no plans to make
